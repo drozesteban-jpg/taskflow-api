@@ -10,6 +10,8 @@
 
 API REST de gestión de tareas con notificaciones asíncronas por email. Permite crear proyectos, asignar tareas con fecha límite y recibir recordatorios automáticos via Celery + Redis.
 
+🚀 **Demo en producción:** [https://taskflow-api-production-1236.up.railway.app/docs](https://taskflow-api-production-1236.up.railway.app/docs)
+
 ---
 
 ## Funcionalidades
